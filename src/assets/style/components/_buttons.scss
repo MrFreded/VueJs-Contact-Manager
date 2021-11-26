@@ -1,0 +1,18 @@
+.add-show-contacts-btn,
+input[type="submit"] {
+  min-width: 180px;
+  padding: 8px 28px;
+  background: $yellowCollor;
+  border: 2px solid $yellowCollor;
+  border-radius: 4px;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: $blackColor1;
+  line-height: 17px;
+  font-weight: 800;
+}
+
+.add-show-contacts-btn:hover,
+.contact-save-btn:hover {
+  background: #ffff;
+}
