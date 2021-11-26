@@ -25,4 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ### App Function
-A vueJS App that saves a contact list to your local storage. User can add, edit, delete a contact. Can also sort and order contact List
+A vueJS App that saves a contact list to your local storage. User can add, edit, delete a contact. Can also sort and order contact list.
